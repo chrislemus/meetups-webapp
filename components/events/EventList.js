@@ -1,4 +1,5 @@
 import EventItem from './EventItem';
+import { ResultsTitle } from './results-title';
 import styles from './event-list.module.css';
 
 export default function EventList(props) {
